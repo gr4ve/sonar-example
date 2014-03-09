@@ -8,7 +8,9 @@
     <artifactId>example</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
+    <scm>
+        <connection></connection>
+    </scm>
 
     <build>
         <pluginManagement>
